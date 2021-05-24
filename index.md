@@ -24,7 +24,7 @@
 
 ### Capstone Project 4
 [Bank Customer Churn Prediction](https://github.com/jianhaoo/Capstone-4---Bank-Churn-Prediction-Model)
-<img src="images/bankchurn.png?raw=true"/></br>
+<img src="images/bankchurn.png?raw=true"/>
 <img src="images/bankchurn_2.png?raw=true"/>
 ---
 

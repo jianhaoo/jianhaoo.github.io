@@ -16,13 +16,13 @@
 
 ---
 
-###Capstone Project 3
+### Capstone Project 3
 [Coffee Shop Sales Analysis](https://github.com/jianhaoo/Capstone-3---Coffee-Shop-Sales-Analysis)
 <img src="images/coffee_dashboard.png?raw=true"/>
 
 ---
 
-###Capstone Project 4
+### Capstone Project 4
 [Bank Customer Churn Prediction](https://github.com/jianhaoo/Capstone-4---Bank-Churn-Prediction-Model)
 
 ---

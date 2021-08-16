@@ -29,7 +29,8 @@
 ---
 
 ### Capstone Project 5
-[Bank Marketing Campaign Prediction](https://github.com/jianhaoo/Capstone5-Bank-Marketing-Campaign)
+[Bank Marketing Campaign Analysis and Prediction Model](https://github.com/jianhaoo/Capstone5-Bank-Marketing-Campaign)
+<img src="images/marketing_mlmodel.png?raw=true"/>
 <img src="images/marketing_dashboard1.png?raw=true"/>
 <img src="images/marketing_dashboard2.png?raw=true"/>
 <img src="images/marketing_dashboard3.png?raw=true"/>
